@@ -1,3 +1,7 @@
+# StudyNotion
+
+To see the project in action: [click here](https://studynotion-frontend.vercel.app/)
+
 
 # StudyNotion Ed-Tech Platform (MERN App)
 
